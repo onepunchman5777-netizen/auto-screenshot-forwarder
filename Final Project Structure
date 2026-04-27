@@ -1,0 +1,10 @@
+auto-screenshot-forwarder/
+├── scripts/
+│   └── watcher.sh
+├── config/
+│   └── config.env
+├── service/
+│   └── screenshot-bot.service
+├── install.sh
+├── uninstall.sh
+└── README.md
